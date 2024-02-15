@@ -1,4 +1,6 @@
+Lembrei do comando "git status"
 Listas
+
 1. Carne
 2. Peixe
 3. Frango
