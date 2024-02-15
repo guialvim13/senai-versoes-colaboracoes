@@ -1,3 +1,0 @@
-Tmj 
-Nois
-#senai
