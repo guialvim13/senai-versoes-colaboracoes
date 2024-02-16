@@ -1,6 +1,9 @@
 Hooiihh
+Lembrei do comando "git status"
+12122
 
 Listas
+
 1. Carne
 2. Peixe
 3. Frango

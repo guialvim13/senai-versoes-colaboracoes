@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Tamoo junto
 top 10
+=======
+Olaa como vai
+>>>>>>> tarefa/minha-primeira-branch
